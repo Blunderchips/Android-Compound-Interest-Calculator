@@ -1,4 +1,4 @@
-# Compound Interest Rate Calculator Android App
+# Compound Interest Calculator Android App
 
 Compound Interest Calculator. A simple app that does just that.
 
