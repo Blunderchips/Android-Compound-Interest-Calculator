@@ -1,6 +1,5 @@
 # Compound Interest Calculator Android App
-
-Compound Interest Calculator. A simple app that does just that.
+### A simple app designed to do just that.
 
 Another really simple app. It does what is says on the box. The idea being that a user downloads the app, performs the calculation they with to perform and the uninstall the app.
 
